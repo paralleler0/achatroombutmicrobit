@@ -8,7 +8,7 @@ for percent in range(101):
     basic.pause(10)
 
 # vars
-messages = ["Chat Started"]
+messages = ["Connected, AB = send."]
 writing = False
 
 def display():
