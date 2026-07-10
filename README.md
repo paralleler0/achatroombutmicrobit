@@ -1,1 +1,2 @@
-idk what to say
+## idk what to say
+planning on adding a wifi branch lol
