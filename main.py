@@ -107,7 +107,7 @@ display()
 while True:
     if not writing:
         # compose message
-        if input.button_is_pressed(Button.A) and input.button_is_pressed(Button.B):
+        if input.button_is_pressed(Button.AB):
             basic.pause(400)
             make_message()
     basic.pause(50)
